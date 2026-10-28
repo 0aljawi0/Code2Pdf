@@ -1,7 +1,4 @@
 /out
 /.vs
 /fonts
-.exe
-.obj
-.aps
 /third_party/imgui/misc
