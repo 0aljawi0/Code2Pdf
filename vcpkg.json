@@ -1,0 +1,8 @@
+{
+  "name": "code2pdf",
+  "version": "0.1.0",
+  "dependencies": [
+    "glfw3"
+  ],
+  "builtin-baseline": "5363acb796e576328288fae60c25304e227e9839"
+}
